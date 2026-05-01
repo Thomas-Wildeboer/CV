@@ -28,12 +28,14 @@
 }
 
 #let lastupdated(date) = {
-  h(1fr); text("Last Updated on " + date, fill: color.gray)
+  h(1fr); text("Last updated " + date, fill: color.gray)
 }
 
 #continuescvpage()
 
 = Thomas G. Wildeboer
+
+_Quantitative and Computational Biologist_
 
 thomas.wildeboer\@mail.utoronto.ca |
 #link("https://github.com/thomas-wildeboer")[github.com/thomas-wildeboer] | #link("https://wildeboer.io")[wildeboer.io]
@@ -106,7 +108,7 @@ _Mountain Lake Biological Station, Virginia_ \
 #link("https://github.com/Thomas-Wildeboer/rnaseq-pipeline")[*RNA-seq in _Drosophila suzukii_*]
 - `Snakemake` pipeline to reanalyze Deng et al. (2022) RNA-seq data to test for sex-biased gene expression in the spotted-wing fruit fly with `DESeq2`.
 
-#link("https://github.com/Thomas-Wildeboer/phylo-inference")[*Phylogenetic Inference of Quantitative Traits*]
+#link("https://github.com/Thomas-Wildeboer/phylo-inference")[*Phylogenetic Inference with Quantitative Traits*]
 - `Julia` simulations of quantitative trait evolution under genetic constraints with analysis of topological distance between true and inferred phylogenies under various optimality criteria.
 
 == Community Involvement
