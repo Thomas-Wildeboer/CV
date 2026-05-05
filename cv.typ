@@ -45,7 +45,7 @@ thomas.wildeboer\@mail.utoronto.ca |
 
 *Doctor of Philosophy* -- Ecology and Evolutionary Biology #h(1fr) 2023 -- Current \
 _University of Toronto_ \
-Topic: mathematical and computational modeling of evolution of complex traits \
+Topic: mathematical and computational modeling of complex trait evolution \
 Supervisors: Jacqueline Sztepanacz, Tomomi Parins-Fukuchi
 
 *Honours Bachelor of Science* (distinction) -- Genome Biology, Ecology and Evolutionary Biology #h(1fr) 2019 -- 2023 \
