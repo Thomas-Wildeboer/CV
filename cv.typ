@@ -89,13 +89,13 @@ _Mountain Lake Biological Station, Virginia_ \
 == Publications
 #chiline()
 
-- *Wildeboer T*, Parins-Fukuchi T, Sztepanacz J. The rescue landscape as a link between micro- and macroevolution. In prep for _Evolution_.
+- *Wildeboer T*, Parins-Fukuchi T, Sztepanacz J. Genetic and demographic constraints on evolution as a unifying explanation for stasis and predictability. In prep for _Evolution_.
 - *Wildeboer T*, MacKenzie A, Sztepanacz J. A multivariate comparison of phenotypic and genetic covariance matrices: when *P* can be used for making evolutionary predictions. In revision at _Evolution_ (EVO-25-0396).
 
 == Conference Presentations
 #chiline()
 
-- *Wildeboer T*, Parins-Fukuchi T. Sztepanacz J. 2025. The effect of pleiotropy on extinction risk over macroevolutionary time. Atwood Colloquium in Ecology and Evolution, Toronto, Ontario.
+- *Wildeboer T*, Parins-Fukuchi T, Sztepanacz J. 2025. The effect of pleiotropy on extinction risk over macroevolutionary time. Atwood Colloquium in Ecology and Evolution, Toronto, Ontario.
 - *Wildeboer T*, Sztepanacz J. 2024. Multivariate comparisons reveal when *P* is an adequate substitute for *G*. (Symposium: Predicting evolutionary responses to a changing world) Third Joint Congress on Evolutionary Biology, Montréal, Québec.
 - *Wildeboer T*, Sztepanacz J. 2023. Multivariate comparisons reveal when *P* is an adequate substitute for *G*. (Poster) EEB Undergraduate Research Fair, Toronto, Ontario.
 
@@ -114,10 +114,16 @@ _Mountain Lake Biological Station, Virginia_ \
 == Community Involvement
 #chiline()
 
+*Judge* -- Undergraduate Engineering Research Day, Faculty of Engineering, University of Toronto #h(1fr) Aug 2026 \
+_Toronto, Ontario_ \
+
 *Guest Lecturer* -- EEB125, Computation and Data Science #h(1fr) Mar 2026\
 _Toronto, Ontario_ \
 
 *Panelist* -- St. Michael's College Postgrad Primer, Research Edition #h(1fr) Jan 2026\
+_Toronto, Ontario_ \
+
+*Grad-Undergrad Mentor* -- EEB Graduate Student Association #h(1fr) 2025-2026 \
 _Toronto, Ontario_ \
 
 *Graduate Peer Mentor* -- EEB Graduate Student Association #h(1fr) 2025-2026 \
@@ -138,4 +144,4 @@ _Toronto, Ontario_ \
 *Science Fair Judge* -- Science Rendezvous #h(1fr) May 2024 \
 _Toronto, Ontario_ \
 
-#lastupdated("Apr 25, 2026")
+#lastupdated("Aug 18, 2026")
